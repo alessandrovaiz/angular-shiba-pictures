@@ -4,6 +4,10 @@ Um projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) vers
 
 Intuito de aprender os conceitos de angular. Os conceitos serão apresentados abaixo no readme
 
+Consome uma api que fornece imagens aleatórias de shibas
+
+![image](https://user-images.githubusercontent.com/55922983/147598767-e69833c4-386b-421a-9a8e-7fe421a65aa1.png)
+
 ## Rodando o projeto
 
 basta instalar as dependencias com npm install e usar o comando ng serve após isso
@@ -38,8 +42,7 @@ Dentro do arquivo terá um array com o nome de routes
 Lá onde serão configuradas as rotas da sua aplicação.
 
 Lembrando que podem existir rotas internas para cada módulo
-
-Lembrando que quando voce define o roteamento no app-routing para outro módulo, dentro do módulo que voce está apontando deve ser indicado para qual componente a rota aponta
+Quando voce define o roteamento no app-routing para outro módulo, dentro do módulo que voce está apontando deve ser indicado para qual componente a rota aponta
 
 ## Módulos
 
@@ -116,3 +119,6 @@ Pode inclusive criar um template como navbar e footer, e como é utilizado o rot
 O Angular Material é uma implementação do Material Design no Angular feita pela Google. Ele é composto por diversos componentes, bibliotecas CSS e outros elementos, e, faz parte do gerenciador de pacotes do Node o NPM, podendo ser considerado mais um recurso que você pode adicionar ao seu projeto Angular.
 
 Ao instalar ele pede a configuração de cores do projeto, mas voce pode fazer a sua paleta de cores customizada também
+
+
+
